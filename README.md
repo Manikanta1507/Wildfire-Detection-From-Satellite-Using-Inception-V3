@@ -1,0 +1,1 @@
+# Wildfire-Detection-From-Satellite-Using-Inception-V3
